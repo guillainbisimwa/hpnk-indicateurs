@@ -1,6 +1,6 @@
 # Creating Virtual Environment
 
-python3 -m venv tutorial-env
+python3 -m venv env
 
 ## Activate
 
