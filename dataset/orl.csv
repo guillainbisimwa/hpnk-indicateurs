@@ -1,0 +1,351 @@
+Date;Nom;Postnom;Prénom;Sexe;Age;Plaintes;Diagnostic final;Diagnostic de présemption;Examens labo;Examens imagerie;Prescriptions;EVT_POSOLOGIE
+01-sept-20;mweze;fundi;;M;20;Otalgie;Otite externe;Otite externe;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3X2gouttes / jr/14jrs
+01-sept-20;zawadi;mustafa;;F;35;Douleurs de l'ATM droit;Dysfonctionnement de l'ATM;Dysfonctionnement de l'ATM;;;Vitamine b1 50mg + vitamine b6 50mg + cyanocobalamine 500mcg (tribexfort) (Dragée);3x1co/jr/10j
+01-sept-20;zawadi;mustafa;;F;35;Douleurs de l'ATM droit;Dysfonctionnement de l'ATM;Dysfonctionnement de l'ATM;;;Dexaméthazone 0,5mg (Comprimé);3x2 c/ j/7jrs
+01-sept-20;polepole;;Sarah Julienne;F;21;Rhinorhée;Rhinosinusite aiguë;Rhinosinusite aiguë;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+01-sept-20;polepole;;Sarah Julienne;F;21;Rhinorhée;Rhinosinusite aiguë;Rhinosinusite aiguë;;;Loratadine 10mg (Comprimé);1co/jr/10jrs
+01-sept-20;polepole;;Sarah Julienne;F;21;Rhinorhée;Rhinosinusite aiguë;Rhinosinusite aiguë;;;Ciprofloxacine 500mg (Comprimé);2x1co/jr/10jrs
+02-sept-20;amina;kanega;Henriette;F;18;Otorrhée/Otorragie;Otite moyenne chronique;Otite moyenne chronique;Ecouvillon de l'oreille gauche, Ecouvillon de l'oreille droite;;Dexaméthazone 0,5mg (Comprimé);3x2co/jr/7jrs
+02-sept-20;amina;kanega;Henriette;F;18;Otorrhée/Otorragie;Otite moyenne chronique;Otite moyenne chronique;Ecouvillon de l'oreille gauche, Ecouvillon de l'oreille droite;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/1 mois
+02-sept-20;amina;kanega;Henriette;F;18;Otorrhée/Otorragie;Otite moyenne chronique;Otite moyenne chronique;Ecouvillon de l'oreille gauche, Ecouvillon de l'oreille droite;;Ciprofloxacine 500mg (Comprimé);2x1co/jr/10jrs
+02-sept-20;Mumbere;Ndabo;Jérémie;M;29;Hypoacousie;Otite moyenne aiguë;Otite moyenne aiguë;;;Dexaméthazone 0,5mg (Comprimé);3x2co/jr/7jrs
+02-sept-20;Mumbere;Ndabo;Jérémie;M;29;Hypoacousie;Otite moyenne aiguë;Otite moyenne aiguë;;;Cinnarizine (stugeron) 25mg (Comprimé);2x1co/jr/10jrs
+02-sept-20;Mumbere;Ndabo;Jérémie;M;29;Hypoacousie;Otite moyenne aiguë;Otite moyenne aiguë;;;Bromazepam (lexotan) 3mg (Comprimé);1co/jr/10jrs le soir
+02-sept-20;Mumbere;Ndabo;Jérémie;M;29;Hypoacousie;Otite moyenne aiguë;Otite moyenne aiguë;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+02-sept-20;Mumbere;Ndabo;Jérémie;M;29;Hypoacousie;Otite moyenne aiguë;Otite moyenne aiguë;;;Levofloxacin 500mg  (Comprimé);1co/jr/10jrs
+02-sept-20;kavira;lutongo;rachel;F;28;Sensation d'étouffement;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Azithromycine comprime de 5oomg;1co/jr/6jrs
+02-sept-20;kavira;lutongo;rachel;F;28;Sensation d'étouffement;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Loratadine 10mg (Comprimé);1co/jr/10jrs
+02-sept-20;kavira;lutongo;rachel;F;28;Sensation d'étouffement;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Dexaméthazone 0,5mg (Comprimé);3x2co/jr/7jrs
+02-sept-20;kavira;lutongo;rachel;F;28;Sensation d'étouffement;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Hydroxyde d’aluminium 250mg + tricilicate de magnésie 250mg + siméticone 125mg + oxethazaine 10mg (digest, nocigel, polygel) (Sp. orale);2x10ml / jr/10jrs
+02-sept-20;kavira;lutongo;rachel;F;28;Sensation d'étouffement;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Montelukast (zopex) 10mg (Comprimé);1co/jr/20jrs
+02-sept-20;kavira;lutongo;rachel;F;28;Sensation d'étouffement;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Omeprazole 20mg + clarithromycine 250mg + tinidazole 500mg (prazole kit) (Comprimé);1 plaquette / jr/7jrs
+02-sept-20;isaka;gogwaya;fabrice;M;34;Otalgie;Otite moyenne chronique;Otite moyenne aiguë;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+02-sept-20;isaka;gogwaya;fabrice;M;34;Otalgie;Otite moyenne chronique;Otite moyenne aiguë;;;Levofloxacin 500mg  (Comprimé);1co/jr/10jrs
+02-sept-20;mpyana;ilunga;penielle;M;1;Hypoacousie;Surdité neurosensorielle profonde congénitale;Surdité neurosensorielle profonde congénitale;;;Amoxicilline 125mg + acide clavulanique 31.25 mg/5ml (Pdre pour sp orale);2x10ml / jr/7jrs
+02-sept-20;mpyana;ilunga;penielle;M;1;Hypoacousie;Surdité neurosensorielle profonde congénitale;Surdité neurosensorielle profonde congénitale;;;Acide aminés essentiels + multivitamines et oligoélements (astymine)   (Sol. orale, gouttes);3x2 gouttes / jr/1 mois
+02-sept-20;masika;furaha;anto;F;36;Ulcération de la langue;Glossite à langue géographique;Glossite à langue géographique;;;Azithromycine comprime de 5oomg;1co/jr/6jrs
+02-sept-20;masika;furaha;anto;F;36;Ulcération de la langue;Glossite à langue géographique;Glossite à langue géographique;;;Fluconazole 200mg (Gélule);1co/jr/15jrs
+02-sept-20;masika;furaha;anto;F;36;Ulcération de la langue;Glossite à langue géographique;Glossite à langue géographique;;;Dexaméthazone 0,5mg (Comprimé);3x2co/jr/7jrs
+02-sept-20;masika;furaha;anto;F;36;Ulcération de la langue;Glossite à langue géographique;Glossite à langue géographique;;;Loratadine 10mg (Comprimé);1co/jr/20jrs
+03-sept-20;bindu;kwabo;Juliette;M;29;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Dexaméthazone 0,5mg (Comprimé);3x2co/jr/7jrs
+03-sept-20;bindu;kwabo;Juliette;M;29;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Fluticasone (avamys) 27.5 µg  (Sol. pulvérisation nasale);2x1bouffée / jr/30jrs
+03-sept-20;bindu;kwabo;Juliette;M;29;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Azithromycine comprime de 5oomg;1co/jr/6jrs
+03-sept-20;bindu;kwabo;Juliette;M;29;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Loratadine 10mg (Comprimé);1co/jr/20jrs
+03-sept-20;lupetu;;esther;F;33;Prurit auriculaire;Otite externe;Otite externe;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+03-sept-20;lupetu;;esther;F;33;Prurit auriculaire;Otite externe;Otite externe;;;Chloréxidine gluconate 0,20% p/v (hextril, mentril, bonthril) (Gargarisme);3x1 gargarisme / jr/7jrs
+03-sept-20;lupetu;;esther;F;33;Prurit auriculaire;Otite externe;Otite externe;;;Levofloxacin 500mg  (Comprimé);1co/jr/10jrs
+03-sept-20;linda;muchimba;gertrude;F;25;Congestion nasale;Tumeur maligne du nez;Tumeur maligne du nez;;Scanner;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+04-sept-20;anges;mahyahya;;F;0;Congestion nasale;Rhinite aiguë;Rhinite aiguë;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x1gouttes / jr/1mois
+04-sept-20;zihala;mparanyi;;M;36;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/1 mois
+04-sept-20;zihala;mparanyi;;M;36;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Loratadine 10mg (Comprimé);1co/jr/20jrs
+04-sept-20;zihala;mparanyi;;M;36;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Azithromycine co 500mg;1co/jr/6jr
+04-sept-20;useni;mahemu;;M;7;Tuméfaction des joues;Parotidite;Parotidite;;;Paracétamol 500mg + ibuprofène 400mg (anaflam) (Comprimé);2x1/2 co/jr/5jrs
+04-sept-20;useni;mahemu;;M;7;Tuméfaction des joues;Parotidite;Parotidite;;;Erythromycine 250mg (Comprimé);3x1co/jr/7jrs
+04-sept-20;miriam;;joyeuse;F;28;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/1mois
+04-sept-20;miriam;;joyeuse;F;28;Congestion nasale;Rhinite allergique;Rhinite allergique;;;azithromycine co 500mg;1co/jr/6jrs
+05-sept-20;amisi;matakumba;;M;15;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Azithromycine comprime de 5oomg;1co/jr/6jrs
+05-sept-20;amisi;matakumba;;M;15;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Fluticasone (avamys) 27.5 µg  (Sol. pulvérisation nasale);2x1bouffée / jr/30jrs
+05-sept-20;amisi;matakumba;;M;15;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Montelukast (zopex) 10mg (Comprimé);1co/jr/20jrs
+05-sept-20;musangi;mugabo;;M;33;Hypoacousie;Céruminose;Céruminose;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1c/jr/7jrs
+05-sept-20;musangi;mugabo;;M;33;Hypoacousie;Céruminose;Céruminose;;;Xylène (cerulyx) (Sol. gouttes auriculaires);3x2gouttes / jr/7jrs
+05-sept-20;musangi;mugabo;;M;33;Hypoacousie;Céruminose;Céruminose;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+05-sept-20;dorika;baziki;;F;1;Masse cervicale;Abcès sous mentonnier;Abcès sous mentonnier;;;Métronidazole  250mg/5ml, 100ml (Pdre pour sp orle);3x125mg/jr/5 jrs
+05-sept-20;dorika;baziki;;F;1;Masse cervicale;Abcès sous mentonnier;Abcès sous mentonnier;;;Cefotaxime, 1g (Pdre pour sol injectable);3x500ml/jr/5j IV
+05-sept-20;dorika;baziki;;F;1;Masse cervicale;Abcès sous mentonnier;Abcès sous mentonnier;;;Paracétamol 150mg/ml  (Sol. injectable);3x300mg / jr/5jrs IV
+05-sept-20;angelani;tuminazi;;F;43;Otalgie;ototoxicité;Ototoxicité;;;Piroxicam (feldene) 10mg (Comprimé);2x1co/jr/5jrs
+05-sept-20;angelani;tuminazi;;F;43;Otalgie;ototoxicité;Ototoxicité;;;Bromazepam (lexotan) 3mg (Comprimé);1co/jr/10jrs le soir
+07-sept-20;anifa;abdoul;Stéphanie;F;15;Masse préauriculaire;Sinus périauriculaire;Sinus périauriculaire;;;Levofloxacin 500mg  (Comprimé);1co/jr/10jrs
+07-sept-20;anifa;abdoul;Stéphanie;F;15;Masse préauriculaire;Sinus périauriculaire;Sinus périauriculaire;;;Paracétamol 500mg + ibuprofène 400mg (anaflam) (Comprimé);2x1c / jr/5jrs
+07-sept-20;Wihonge;Mirindi;Élie;M;10;Toux;Rhinite allergique;Rhinite allergique;;;Citirizine 1mg/ml (cetrimax) (Sp. orale);5ml/jr/10jrs
+07-sept-20;Wihonge;Mirindi;Élie;M;10;Toux;Rhinite allergique;Rhinite allergique;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/1 mois
+07-sept-20;Zagabe;Chirangashane;;F;55;Hypoacousie;Performation du tympan;Performation du tympan;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/1 mois
+07-sept-20;Zagabe;Chirangashane;;F;55;Hypoacousie;Performation du tympan;Performation du tympan;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1co/jr/7jrs
+07-sept-20;ahadi;byuma;isaa;M;1;Rhinorhée;Rhinopharyngite;Rhinopharyngite;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x1goutte/jr/14jrs
+07-sept-20;ahadi;byuma;isaa;M;1;Rhinorhée;Rhinopharyngite;Rhinopharyngite;;;sekrol pediatrique;2x5ml/jr/7jrs
+07-sept-20;ahadi;byuma;isaa;M;1;Rhinorhée;Rhinopharyngite;Rhinopharyngite;;;Amoxicilline 250mg + acide clavulanique 62,5mg/5ml, 100ml (Pdre pour sp orale);2x10ml/jr/7jrs
+07-sept-20;lavie;nabuke;;F;20;Masse cervicale;Adénome pléiomorphe de la glande submandibulaire droite;Adénome pléiomorphe de la glande submandibulaire droite;Hémoglobine, Hématocrite, ABO & RH (D), Temps de saignement (TS), Temps de coagulation (TC);Échographie de la masse cervicale;;
+07-sept-20;CIZA;TSHIFENDE;;M;0;Congestion nasale;Rhinite chronique;Rhinite chronique;;;Amoxicilline 125mg + acide clavulanique 31.25 mg/5ml (Pdre pour sp orale);2x5ml/jr/7jrs
+07-sept-20;CIZA;TSHIFENDE;;M;0;Congestion nasale;Rhinite chronique;Rhinite chronique;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x1gouttes / jr/2 mois
+07-sept-20;mwishuko;mulaba;jean angel;M;0;Congestion nasale;Rhinite aiguë;Rhinite aiguë;;;Azithromycine 200mg/5ml, 100ml (Poudre pour sp orale);5ml / jr/6jrs
+07-sept-20;mwishuko;mulaba;jean angel;M;0;Congestion nasale;Rhinite aiguë;Rhinite aiguë;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x1gouttes / jr/14jrs
+07-sept-20;murhula;polepole;bonheur;M;26;Sensation d'un corps étrangers dans la gorge;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Loratadine 10mg (Comprimé);1co/jr/10jrs
+07-sept-20;murhula;polepole;bonheur;M;26;Sensation d'un corps étrangers dans la gorge;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Azithromycine co 500mg;1co/jr/6jrs
+07-sept-20;murhula;polepole;bonheur;M;26;Sensation d'un corps étrangers dans la gorge;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Hydroxyde d’aluminium 250mg + tricilicate de magnésie 250mg + siméticone 125mg + oxethazaine 10mg (digest, nocigel, polygel) (Sp. orale);2x10ml / jr/10jrs
+07-sept-20;nabintu;bahati;;F;47;Eternuements excessifs;Rhinite allergique;Rhinite allergique;;;Fluticasone (avamys) 27.5 µg  (Sol. pulvérisation nasale);2x1bouffée / jr/30jrs
+07-sept-20;bizimana;mugabo;;M;47;Douleurs linguales;Glossite;Glossite;Hémogramme complet, Vitesse de sédimentation (VS), VDRL/TPHA, Ac HIV 1 & 2;;Levofloxacin 500mg  (Comprimé);1co/jr/10jrs
+07-sept-20;bizimana;mugabo;;M;47;Douleurs linguales;Glossite;Glossite;Hémogramme complet, Vitesse de sédimentation (VS), VDRL/TPHA, Ac HIV 1 & 2;;Fluconazole 200mg (Gélule);1gel/jr/15jrs
+07-sept-20;bizimana;mugabo;;M;47;Douleurs linguales;Glossite;Glossite;Hémogramme complet, Vitesse de sédimentation (VS), VDRL/TPHA, Ac HIV 1 & 2;;Chloréxidine gluconate 0,20% p/v (hextril, mentril, bonthril) (Gargarisme);3x1 gargarisme / jr/10jrs
+07-sept-20;boneza;omari;shemsa;F;7;Tuméfaction de l'oreille;Sinus périauriculaire;Sinus périauriculaire;;;Amoxicilline 250mg + acide clavulanique 62,5mg/5ml, 100ml (Pdre pour sp orale);2x10ml/jr/7jrs
+07-sept-20;boneza;omari;shemsa;F;7;Tuméfaction de l'oreille;Sinus périauriculaire;Sinus périauriculaire;;;Ibuprofène sp, 100mg/5ml (Sol. injectable);2x10ml/jr/5jrs
+08-sept-20;kavira;mbusa;;F;47;Otorrhée/Otorragie;Otite moyenne chronique;Otite moyenne chronique;Ecouvillon de l'oreille gauche;;Levofloxacin 500mg  (Comprimé);2x1co/jr/10jrs
+08-sept-20;kavira;mbusa;;F;47;Otorrhée/Otorragie;Otite moyenne chronique;Otite moyenne chronique;;;Levofloxacin 500mg  (Comprimé);2x1co/jr/10jrs
+08-sept-20;kavira;mbusa;;F;47;Otorrhée/Otorragie;Otite moyenne chronique;Otite moyenne chronique;Ecouvillon de l'oreille gauche;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/30jrs
+08-sept-20;kavira;mbusa;;F;47;Otorrhée/Otorragie;Otite moyenne chronique;Otite moyenne chronique;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/30jrs
+08-sept-20;josee;ajuamungu;;F;43;Masse cervicale;Goitre;Goitre;;Échographie thyroïdienne;Azithromycine co 500mg;1co/jr/6jrs
+08-sept-20;josee;ajuamungu;;F;43;Masse cervicale;Goitre;Goitre;;Échographie thyroïdienne;Dexaméthazone 0,5mg (Comprimé);3x2co/jr/7jrs
+08-sept-20;muhamedi;batechi;;M;10;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Montelukast (zopex) 5mg (Comprimé);1co/jr/20jrs
+08-sept-20;muhamedi;batechi;;M;10;Congestion nasale;Rhinite allergique;Rhinite allergique;;;azithromycine co 250mg;1co/jr/6jrs
+08-sept-20;muhamedi;batechi;;M;10;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Citirizine 1mg/ml (cetrimax) (Sp. orale);10ml/jr/10jrs
+08-sept-20;muhamedi;batechi;;M;10;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/1 mois
+08-sept-20;bofela;atelo;;M;26;Otorrhée/Otorragie;Céruminose;Céruminose;;;Xylène (cerulyx) (Sol. gouttes auriculaires);3x2gouttes / jr/7jrs
+08-sept-20;bishirambona;maroyi;Léon;M;45;Saignement de nez;Epistaxis;Epistaxis;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+08-sept-20;bishirambona;maroyi;Léon;M;45;Saignement de nez;Epistaxis;Epistaxis;;;Loratadine 10mg (Comprimé);1co/jr/10jrs
+08-sept-20;bishirambona;maroyi;Léon;M;45;Saignement de nez;Epistaxis;Epistaxis;;;azithromycine co 500mg;1co/jr/6jrs
+09-sept-20;furaha;malira;joyce;F;31;Douleur cervicale;Amygdalite aiguë;Amygdalite aiguë;;;Levofloxacin 500mg  (Comprimé);1co/jr/10jrs
+09-sept-20;furaha;malira;joyce;F;31;Douleur cervicale;Amygdalite aiguë;Amygdalite aiguë;;;Dexaméthazone 0,5mg (Comprimé);3x2co / jr/7jrs
+09-sept-20;furaha;malira;joyce;F;31;Douleur cervicale;Amygdalite aiguë;Amygdalite aiguë;;;acide bêta-glycyrrhétique 60mg  (chlorure de d'aqualinium, 100mg tyrothricine) (Anginovag spray);3x1 bouffée / jr/5jrs
+09-sept-20;rutakumigwa;;justin;M;42;Otorrhée/Otorragie;Otite moyenne chronique;Otite moyenne chronique;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/1 mois
+09-sept-20;rutakumigwa;;justin;M;42;Otorrhée/Otorragie;Otite moyenne chronique;Otite moyenne chronique;;;Levofloxacin 500mg  (Comprimé);2x1co/jr/10jrs
+09-sept-20;baluge;bengehya;;M;4;Otalgie;Otite externe;Otite externe;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3gouttes / jr/14jrs
+09-sept-20;maneluva;victoire;;M;6;Corps étranger de l'oreille;Corps étranger de l'oreille;Corps étranger de l'oreille;;;;
+09-sept-20;guslaine;mwabatumike;;F;38;Tuméfaction de la joue droite;Tumeur nasosinusienne maxillaire;Tumeur nasosinusienne maxillaire;;Scanner;;
+10-sept-20;kambale;kitambala;;M;27;Céphalées;Rhinite chronique;Rhinite chronique;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+10-sept-20;kambale;kitambala;;M;27;Céphalées;Rhinite chronique;Rhinite chronique;;;Dexaméthazone 0,5mg (Comprimé);3x2co / jr/7jrs
+10-sept-20;kambale;kitambala;;M;27;Céphalées;Rhinite chronique;Rhinite chronique;;;Loratadine 10mg (Comprimé);1co/jr/10jrs
+10-sept-20;kambale;kitambala;;M;27;Céphalées;Rhinite chronique;Rhinite chronique;;;Levofloxacin 500mg  (Comprimé);1co/jr/10jrs
+10-sept-20;djumaine;kadogo;;M;35;Dysphagie;Amygdalite aiguë;Amygdalite aiguë;;;Vitamine b1 50mg + vitamine b6 50mg + cyanocobalamine 500mcg (tribexfort) (Dragée);3x1co/jr/10jrs
+10-sept-20;bangia;kapeya;pascaline;F;51;Douleurs préauriculaires droites;Parotidite;Parotidite;;Échographie de la glande parotide droite;;
+10-sept-20;akongwa;bashonga;jules;M;16;Saignement de nez;Fracture de l'os propre du nez;Fracture de l'os propre du nez;;;Dexaméthazone 0,5mg (Comprimé);3x2co/jr/7jrs
+10-sept-20;akongwa;bashonga;jules;M;16;Saignement de nez;Fracture de l'os propre du nez;Fracture de l'os propre du nez;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+10-sept-20;akongwa;bashonga;jules;M;16;Saignement de nez;Fracture de l'os propre du nez;Fracture de l'os propre du nez;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1c / jr/7jrs
+11-sept-20;muhemedi;mbuyi;andy;M;9;Congestion nasale;Rhinite chronique;Rhinite chronique;;;Citirizine 1mg/ml (cetrimax) (Sp. orale);10ml / jr/10jrs
+11-sept-20;muhemedi;mbuyi;andy;M;9;Congestion nasale;Rhinite chronique;Rhinite chronique;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+11-sept-20;muhemedi;mbuyi;andy;M;9;Congestion nasale;Rhinite chronique;Rhinite chronique;;;Azithromycine co 250mg;1co/jr/6jrs
+11-sept-20;marie;reine;pendwa;F;3;Masse cervicale;Kyste cervical;Nodule thyroïdien;;Échographie de la masse cervicale médiane;;
+11-sept-20;peace;feruzi;;M;3;Congestion nasale;Rhinite aiguë;Rhinite aiguë;;;Azithromycine 200mg/5ml, 100ml (Poudre pour sp orale);5ml/jr/6jrs
+11-sept-20;peace;feruzi;;M;3;Congestion nasale;Rhinite aiguë;Rhinite aiguë;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x1goutte / jr/14jrs
+11-sept-20;peace;feruzi;;M;3;Congestion nasale;Rhinite aiguë;Rhinite aiguë;;;Loratadine  1mg/ml (Sp. orale);5ml/jr/10jrs
+11-sept-20;david;mirimo;;M;39;Congestion nasale;Rhinite aigüe;Rhinite aigüe;;;Loratadine 10mg (Comprimé);1co/jr/10jrs
+11-sept-20;david;mirimo;;M;39;Congestion nasale;Rhinite aigüe;Rhinite aigüe;;;Azithromycine co 500mg;1co/jr/6jrs
+11-sept-20;david;mirimo;;M;39;Congestion nasale;Rhinite aigüe;Rhinite aigüe;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes/ jr/14jrs
+12-sept-20;feza;kasikila;Anael;F;1;Otalgie;Otite moyenne aiguë;Otite moyenne aiguë;;;Amoxicilline 125mg + acide clavulanique 31.25 mg/5ml (Pdre pour sp orale);2x10ml / j?/7jrs
+12-sept-20;feza;kasikila;Anael;F;1;Otalgie;Otite moyenne aiguë;Otite moyenne aiguë;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x1gouttes / jr/14jrs
+12-sept-20;feza;kasikila;Anael;F;1;Otalgie;Otite moyenne aiguë;Otite moyenne aiguë;;;Nystatine 100000ui (Sp orale);3x5ml/10jrs
+12-sept-20;feza;kasikila;Anael;F;1;Otalgie;Otite moyenne aiguë;Otite moyenne aiguë;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x1goutte / jr/10jrs
+12-sept-20;kinumbi;aliamutu;junior;M;33;Dysphonie;Tumeur cérébrale;Tumeur cérébrale;;Scanner;Vitamine b1 50mg + vitamine b6 50mg + cyanocobalamine 500mcg (tribexfort) (Dragée);3x1co/j?/10jrs
+12-sept-20;nantungane;;jeanne;F;22;Odynophagie;Amygdalite aiguë;Amygdalite aiguë;;;Dexaméthazone 0,5mg (Comprimé);3x2c/jr/7jrs
+12-sept-20;nantungane;;jeanne;F;22;Odynophagie;Amygdalite aiguë;Amygdalite aiguë;;;acide bêta-glycyrrhétique 60mg  (chlorure de d'aqualinium, 100mg tyrothricine) (Anginovag spray);3x1bouffée / j/5j
+12-sept-20;nantungane;;jeanne;F;22;Odynophagie;Amygdalite aiguë;Amygdalite aiguë;;;Hydroxyde d’aluminium 250mg + tricilicate de magnésie 250mg + siméticone 125mg + oxethazaine 10mg (digest, nocigel, polygel) (Sp. orale);2x10ml / jr/10jrs
+12-sept-20;nantungane;;jeanne;F;22;Odynophagie;Amygdalite aiguë;Amygdalite aiguë;;;Azithromycine comprime de 5oomg;1co/j/6jrs
+14-sept-20;SHUKURU;MUDUMBI;Laddyslas;M;27;Hypoacousie;Céruminose;Céruminose;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+14-sept-20;SHUKURU;MUDUMBI;Laddyslas;M;27;Hypoacousie;Céruminose;Céruminose;;;Xylène (cerulyx) (Sol. gouttes auriculaires);3x2gouttes / jr/14jrs
+14-sept-20;KIDADI;BYISHIMO;Aimable;M;27;Bourdonnements d'oreille;Céruminose;Céruminose;;;Xylène (cerulyx) (Sol. gouttes auriculaires);3x2gouttes / j?/7jrs
+14-sept-20;alima;muhesi;;F;16;Odynophagie;Amygdalite aiguë;Amygdalite aiguë;;;Paracétamol 500mg + ibuprofène 400mg (anaflam) (Comprimé);2xaco/jr/5jrs
+14-sept-20;alima;muhesi;;F;16;Odynophagie;Amygdalite aiguë;Amygdalite aiguë;;;acide bêta-glycyrrhétique 60mg  (chlorure de d'aqualinium, 100mg tyrothricine) (Anginovag spray);3x1bouffée / jr/5jrs
+14-sept-20;alima;muhesi;;F;16;Odynophagie;Amygdalite aiguë;Amygdalite aiguë;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1co/jr/10jrs
+14-sept-20;mauwa;sadiki;kalutha;F;29;Bourdonnements d'oreille;Performation du tympan;Performation du tympan;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/1 mois
+14-sept-20;dusenge;murora;;F;39;Rhinorhée;Rhinite allergique;Rhinite allergique;;;Azithromycine co 500mg;1co/jr/6jrs
+14-sept-20;dusenge;murora;;F;39;Rhinorhée;Rhinite allergique;Rhinite allergique;;;Loratadine 10mg (Comprimé);1co/jr/10jrs
+14-sept-20;dusenge;murora;;F;39;Rhinorhée;Rhinite allergique;Rhinite allergique;;;Fluticasone (avamys) 27.5 µg  (Sol. pulvérisation nasale);2x1bouffée / jr/30jrs
+14-sept-20;dusenge;murora;;F;39;Rhinorhée;Rhinite allergique;Rhinite allergique;;;Montelukast (zopex) 10mg (Comprimé);1co/jr/20jrs
+14-sept-20;marie;ngongo;;F;38;Tuméfaction de la face;Fracture de l'os propre du nez;Fracture de l'os propre du nez;;RX massif facial;Mephénesine (decontractyl) 250mg (Comprimé);3x1co/jr/10jrs
+14-sept-20;marie;ngongo;;F;38;Tuméfaction de la face;Fracture de l'os propre du nez;Fracture de l'os propre du nez;;RX massif facial;Dexaméthazone 0,5mg (Comprimé);3x2co  / jr/7jrs
+14-sept-20;marie;ngongo;;F;38;Tuméfaction de la face;Fracture de l'os propre du nez;Fracture de l'os propre du nez;;RX massif facial;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+14-sept-20;marie;ngongo;;F;38;Tuméfaction de la face;Fracture de l'os propre du nez;Fracture de l'os propre du nez;;RX massif facial;Azithromycine co 500mg;1co/jr/6jrs
+14-sept-20;arsene;kwangaba;Theodor;M;19;Odynophagie;Amygdalite aiguë;Amygdalite aiguë;;;Azithromycine co 500mg;1co/jr/6jrs
+14-sept-20;arsene;kwangaba;Theodor;M;19;Odynophagie;Amygdalite aiguë;Amygdalite aiguë;;;acide bêta-glycyrrhétique 60mg  (chlorure de d'aqualinium, 100mg tyrothricine) (Anginovag spray);3x1bouffée / jr/5jrs
+14-sept-20;arsene;kwangaba;Theodor;M;19;Odynophagie;Amygdalite aiguë;Amygdalite aiguë;;;Paracétamol 500mg + ibuprofène 400mg (anaflam) (Comprimé);2x1co/jr/5jrs
+14-sept-20;kambale;kulendea;;M;14;Congestion nasale;Rhinite chronique;Rhinite chronique;;;Dexaméthazone 0,5mg (Comprimé);3x2co / jr/7jrs
+14-sept-20;kambale;kulendea;;M;14;Congestion nasale;Rhinite chronique;Rhinite chronique;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+14-sept-20;kambale;kulendea;;M;14;Congestion nasale;Rhinite chronique;Rhinite chronique;;;Azithromycine co 500mg;1co/jr/6jrs
+14-sept-20;kambale;kulendea;;M;14;Congestion nasale;Rhinite chronique;Rhinite chronique;;;Loratadine 10mg (Comprimé);1co/jr/10jrs
+14-sept-20;furaha;salumu;;F;41;Prurit;Otite externe;Otite externe;;;Cinnarizine (stugeron) 25mg (Comprimé);2x1co/jr/10jrs
+14-sept-20;furaha;salumu;;F;41;Prurit;Otite externe;Otite externe;;;Azithromycine co 500mg;1co/jr/6jrs
+14-sept-20;furaha;salumu;;F;41;Prurit;Otite externe;Otite externe;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+14-sept-20;furaha;salumu;;F;41;Prurit;Otite externe;Otite externe;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3X2gouttes / jr/14jrs
+15-sept-20;lukogho;lugula;;F;0;Respiration bruyante;Atrésie de l'ouverture pyriforme du nez;Atrésie de l'ouverture pyriforme;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x1gouttes / jr/30 jrs
+15-sept-20;mbariza;;alphonsine;F;60;Toux;Laryngite allergique;Laryngite allergique;Urée, Créatinine, ASAT (GOT), ALAT (GPT);;cetirizine co 10 mg;1co/jr/20jrs
+15-sept-20;mbariza;;alphonsine;F;60;Toux;Laryngite allergique;Laryngite allergique;Urée, Créatinine, ASAT (GOT), ALAT (GPT);;Loratadine 10mg (Comprimé);1co/jr/10jrs
+15-sept-20;mbariza;;alphonsine;F;60;Toux;Laryngite allergique;Laryngite allergique;Urée, Créatinine, ASAT (GOT), ALAT (GPT);;Montelukast (zopex) 10mg (Comprimé);1co/jr/20jrs
+15-sept-20;mbariza;;alphonsine;F;60;Toux;Laryngite allergique;Laryngite allergique;Urée, Créatinine, ASAT (GOT), ALAT (GPT);;Dexaméthazone 0,5mg (Comprimé);3x2co/jr/7jrs
+15-sept-20;mbariza;;alphonsine;F;60;Toux;Laryngite allergique;Laryngite allergique;Urée, Créatinine, ASAT (GOT), ALAT (GPT);;Azithromycine co 500mg;1co/jr/6jrs
+15-sept-20;udongo;ajaruva;bienvenu;M;24;Anosmie;Anosmie post traumatique;Anosmie post traumatique;;;Dexaméthazone 0,5mg (Comprimé);3x2c/jr/7jrs
+15-sept-20;udongo;ajaruva;bienvenu;M;24;Anosmie;Anosmie post traumatique;Anosmie post traumatique;;;Fluticasone (avamys) 27.5 µg  (Sol. pulvérisation nasale);2x1bouffée / jr/30jrs
+15-sept-20;munenwa;;Daniel;M;26;Bourdonnements d'oreille;Otite moyenne aiguë;Otite moyenne aiguë;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1co/jr/10jrs
+15-sept-20;munenwa;;Daniel;M;26;Bourdonnements d'oreille;Otite moyenne aiguë;Otite moyenne aiguë;;;Cinnarizine (stugeron) 25mg (Comprimé);2x1co/jr/10jrs
+15-sept-20;christivi;sangilesa;;F;17;Masse cervicale;Kyste cervical;Kyste cervical;Hémogramme complet, Vitesse de sédimentation (VS), CRP Quantitative;Échographie de la masse cervicale;;
+15-sept-20;kavira;kambasu;Emiliane;F;66;Prurit auriculaire;Otite externe;Otite externe;;;Fluconazole 150mg (Gélule);1gel/10jr
+15-sept-20;kavira;kambasu;Emiliane;F;66;Prurit auriculaire;Otite externe;Otite externe;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+15-sept-20;kavira;kambasu;Emiliane;F;66;Prurit auriculaire;Otite externe;Otite externe;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1co/jr/10
+15-sept-20;kabuo;nzuva;jacqueline;F;57;Prurit auriculaire;Otite externe;Otite externe;;;Fluconazole 200mg (Gélule);1gel/jr/10jrs
+15-sept-20;kabuo;nzuva;jacqueline;F;57;Prurit auriculaire;Otite externe;Otite externe;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1c/jr/10jrs
+15-sept-20;kabuo;nzuva;jacqueline;F;57;Prurit auriculaire;Otite externe;Otite externe;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+15-sept-20;tsubage;sakanabo;;F;84;Otalgie;Otite moyenne chronique;Otite moyenne chronique;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+15-sept-20;tsubage;sakanabo;;F;84;Otalgie;Otite moyenne chronique;Otite moyenne chronique;;;Vitamine b1 50mg + vitamine b6 50mg + cyanocobalamine 500mcg (tribexfort) (Dragée);3x1co/jr/10jrs
+15-sept-20;tsubage;sakanabo;;F;84;Otalgie;Otite moyenne chronique;Otite moyenne chronique;;;Paracétamol 500mg + ibuprofène 400mg (anaflam) (Comprimé);2x1c/jr/5jrs
+15-sept-20;tsubage;sakanabo;;F;84;Otalgie;Otite moyenne chronique;Otite moyenne chronique;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1c/jr/7jrs
+16-sept-20;kabeza;chabo;Béatrice;F;39;Odynophagie;Amygdalite chronique;Amygdalite chronique;Hémogramme complet, Sédiment urinaire, Glycémie;;Paracétamol 500mg + ibuprofène 400mg (anaflam) (Comprimé);2x1co/hr/5jr
+16-sept-20;kabeza;chabo;Béatrice;F;39;Odynophagie;Amygdalite chronique;Amygdalite chronique;;;Azithromycine co 500mg;1co/jr/6jrs
+16-sept-20;kabeza;chabo;Béatrice;F;39;Odynophagie;Amygdalite chronique;Amygdalite chronique;;;Paracétamol 500mg + ibuprofène 400mg (anaflam) (Comprimé);2x1co/hr/5jr
+16-sept-20;kabeza;chabo;Béatrice;F;39;Odynophagie;Amygdalite chronique;Amygdalite chronique;Hémogramme complet, Sédiment urinaire, Glycémie;;Azithromycine co 500mg;1co/jr/6jrs
+16-sept-20;sylvie;wele;kahindo;F;27;Dysphonie;Laryngite chronique;Laryngite chronique;;RX thorax;Azithromycine co 500mg;1co/jr/6jrs
+16-sept-20;sylvie;wele;kahindo;F;27;Dysphonie;Laryngite chronique;Laryngite chronique;;RX thorax;Fluconazole 200mg (Gélule);1co/jr/10jrs
+16-sept-20;sylvie;wele;kahindo;F;27;Dysphonie;Laryngite chronique;Laryngite chronique;;RX thorax;Omeprazole 20mg + dompéridone 10mg (Prazol D) (Comprimé);2x1co / jr/14jrs
+16-sept-20;sylvie;wele;kahindo;F;27;Dysphonie;Laryngite chronique;Laryngite chronique;;RX thorax;Loratadine 10mg (Comprimé);1co/jr/10jrs
+16-sept-20;sylvie;wele;kahindo;F;27;Dysphonie;Laryngite chronique;Laryngite chronique;;RX thorax;Loratadine 10mg (Comprimé);1co / jr/10jrs
+16-sept-20;sylvie;wele;kahindo;F;27;Dysphonie;Laryngite chronique;Laryngite chronique;;RX thorax;Dexaméthazone 0,5mg (Comprimé);3x2co/jr/7jrs
+16-sept-20;Luanda;;Kamala;F;43;Dysphagie;Septicemie;Septicemie;;;Cefotaxime, 1g (Pdre pour sol injectable);3x1g/5jrs
+16-sept-20;Luanda;;Kamala;F;43;Dysphagie;Septicemie;Septicemie;;;Glucosée 10%;2l/jr
+16-sept-20;Luanda;;Kamala;F;43;Dysphagie;Septicemie;Septicemie;;;Hydrocortizone 100mg (Pdre pour sol. injectable);100mg IV/jr
+16-sept-20;Luanda;;Kamala;F;43;Dysphagie;Septicemie;Septicemie;;;Serum physiologique;2l à flot
+16-sept-20;Luanda;;Kamala;F;43;Dysphagie;Septicemie;Septicemie;;;Métronidazole 5%, 100ml (Infusion iv);3x500mg/jr/5
+16-sept-20;nsungu;kayembe;Godelive;F;62;Bourdonnements d'oreille;Presbyacousie;Presbyacousie;;;Cinnarizine (stugeron) 25mg (Comprimé);2x1co/jr/14jrs
+16-sept-20;nsungu;kayembe;Godelive;F;62;Bourdonnements d'oreille;Presbyacousie;Presbyacousie;;;Vitamine b1 50mg + vitamine b6 50mg + cyanocobalamine 500mcg (tribexfort) (Dragée);3x1co/jr/10jrs
+16-sept-20;nsungu;kayembe;Godelive;F;62;Bourdonnements d'oreille;Presbyacousie;Presbyacousie;;;Bromazepam (lexotan) 3mg (Comprimé);1co/jr/10jrs le soir
+16-sept-20;chrimwami;;King;M;4;Respiration bruyante;Hypertrophie des végétations adénoïdes (HVA);Hypertrophie des végétations adénoïdes (HVA);;;Solution physiologique (locale), 15ml  (Solution gouttes nasales);3x2gouttes/jr/10jrs
+17-sept-20;mugisho;mitima;;M;14;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Loratadine 10mg (Comprimé);1co / jr/10jrs
+17-sept-20;mugisho;mitima;;M;14;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Azithromycine co 500mg;1co/jr/6j
+17-sept-20;mugisho;mitima;;M;14;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Montelukast (zopex) 10mg (Comprimé);1co/jr/20jrs
+17-sept-20;mugisho;mitima;;M;14;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Fluticasone (avamys) 27.5 µg  (Sol. pulvérisation nasale);2x1bouffée / jr/30jrs
+17-sept-20;nicolas;irenge;;M;14;Saignement de nez;Epistaxis;Epistaxis;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), D-DIMER, CRP Quantitative, Widal TO, Créatinine;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/1 mois
+17-sept-20;nicolas;irenge;;M;14;Saignement de nez;Epistaxis;Epistaxis;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), D-DIMER, CRP Quantitative, Widal TO, Créatinine;;Acide tranexamique 500mg (exacyl)  (Solution buvable);2x1A/jr/5jrs
+17-sept-20;nicolas;irenge;;M;14;Saignement de nez;Epistaxis;Epistaxis;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), D-DIMER, CRP Quantitative, Widal TO, Créatinine;;Fluconazole 150mg (Gélule);1gel/jr/10jrs
+17-sept-20;nicolas;irenge;;M;14;Saignement de nez;Epistaxis;Epistaxis;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), D-DIMER, CRP Quantitative, Widal TO, Créatinine;;Azithromycine co 500mg;1co/jr/6jrs
+17-sept-20;kundura;nsimire;Gisèle;F;51;Otalgie;Otite bulleuse;Otite bulleuse;;;Levofloxacin 500mg  (Comprimé);1 co/jr/10jrs
+17-sept-20;kundura;nsimire;Gisèle;F;51;Otalgie;Otite bulleuse;Otite bulleuse;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+17-sept-20;kundura;nsimire;Gisèle;F;51;Otalgie;Otite bulleuse;Otite bulleuse;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+17-sept-20;kundura;nsimire;Gisèle;F;51;Otalgie;Otite bulleuse;Otite bulleuse;;;Dexaméthazone 0,5mg (Comprimé);3x2co / jr/7jrs
+17-sept-20;zawadi;;Christophe;M;33;Odynophagie;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;acide bêta-glycyrrhétique 60mg  (chlorure de d'aqualinium, 100mg tyrothricine) (Anginovag spray);3x1bouffée / jr/5jrs
+17-sept-20;zawadi;;Christophe;M;33;Odynophagie;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Hydroxyde d’aluminium 250mg + tricilicate de magnésie 250mg + siméticone 125mg + oxethazaine 10mg (digest, nocigel, polygel) (Sp. orale);2x10ml / jr/10jrs
+17-sept-20;zawadi;;Christophe;M;33;Odynophagie;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Azithromycine co 500mg;1co/jr/6jrs
+17-sept-20;zawadi;;Christophe;M;33;Odynophagie;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Loratadine 10mg (Comprimé);1co/jr/10jrs
+18-sept-20;fete;omba;mupasa;F;60;Hypoacousie;Céruminose;Céruminose;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+18-sept-20;fete;omba;mupasa;F;60;Hypoacousie;Céruminose;Céruminose;;;Xylène (cerulyx) (Sol. gouttes auriculaires);3x2gouttes/jr/7jrs
+18-sept-20;fete;omba;mupasa;F;60;Hypoacousie;Céruminose;Céruminose;;;Cinnarizine (stugeron) 25mg (Comprimé);2x1co/jr/10jrs
+18-sept-20;mukatala;musafiri;merdi;M;1;Respiration bruyante;Hypertrophie des végétations adénoïdes (HVA);Hypertrophie des végétations adénoïdes (HVA);;;Citirizine 1mg/ml (cetrimax) (Sp. orale);2.5 ml/jr/10jrs
+18-sept-20;mukatala;musafiri;merdi;M;1;Respiration bruyante;Hypertrophie des végétations adénoïdes (HVA);Hypertrophie des végétations adénoïdes (HVA);;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x1goutte / jr/1 mois
+18-sept-20;kizungu;safi;;F;37;Bourdonnements d'oreille;Acouphène;Acouphène;;;Bromazepam (lexotan) 3mg (Comprimé);1co/jr/10jrs
+18-sept-20;kizungu;safi;;F;37;Bourdonnements d'oreille;Acouphène;Acouphène;;;Vitamine b1 50mg + vitamine b6 50mg + cyanocobalamine 500mcg (tribexfort) (Dragée);3x1co/jr/10jrs
+18-sept-20;kizungu;safi;;F;37;Bourdonnements d'oreille;Acouphène;Acouphène;;;Cinnarizine (stugeron) 25mg (Comprimé);2x1co/jr/10jrs
+18-sept-20;nzigire;batumike;;F;45;Dysphonie;Laryngite chronique;Laryngite chronique;;;Azithromycine comprime de 5oomg;1co/jr/6jrs
+18-sept-20;nzigire;batumike;;F;45;Dysphonie;Laryngite chronique;Laryngite chronique;;;Dexaméthazone 0,5mg (Comprimé);3x2c / jr/7jrs
+18-sept-20;nzigire;batumike;;F;45;Dysphonie;Laryngite chronique;Laryngite chronique;;;Loratadine 10mg (Comprimé);1co/jr/10jrs
+18-sept-20;nzigire;batumike;;F;45;Dysphonie;Laryngite chronique;Laryngite chronique;;;Hydroxyde d’aluminium 250mg + tricilicate de magnésie 250mg + siméticone 125mg + oxethazaine 10mg (digest, nocigel, polygel) (Sp. orale);2x10ml/jr/10jr
+18-sept-20;dan;kamuha;;F;0;Masse sous la langue;Kyste sublingual;Kyste sublingual;;;;
+18-sept-20;maniragaba;sibomana;yvone;F;46;Dysphagie;Amygdalite chronique;Amygdalite chronique;;;;
+18-sept-20;kambale;bihabwa;;M;3;Otalgie;Otite moyenne aiguë;Otite moyenne aiguë;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+19-sept-20;Nambaka;Bateji;Ndatsonanze;F;60;sensation d'un CE dans la gorge;Reflux gastro-œsophagien;Reflux gastro-œsophagien;Hémogramme complet, Vitesse de sédimentation (VS), CRP Quantitative, Ac H pylori (sang), Glycémie;;Loratadine 10mg (Comprimé);1co/jr/10jrs
+19-sept-20;Nambaka;Bateji;Ndatsonanze;F;60;sensation d'un CE dans la gorge;Reflux gastro-œsophagien;Reflux gastro-œsophagien;Hémogramme complet, Vitesse de sédimentation (VS), CRP Quantitative, Ac H pylori (sang), Glycémie;;Omeprazole 20mg + clarithromycine 250mg + tinidazole 500mg (prazole kit) (Comprimé);1plaquette / jr/7jrs
+19-sept-20;Mukunzi;;Médiatrice;F;4;Masse sous mentonnière;Granulome sous mentonnier;Granulome sous mentonnier;;Échographie de la masse sous mentonnière;Paracétamol + ibuprofène (anaflam, brufen), 100ml  (Sp. orale);2x10ml/hr/5jrs
+19-sept-20;Mukunzi;;Médiatrice;F;4;Masse sous mentonnière;Granulome sous mentonnier;Granulome sous mentonnier;;Échographie de la masse sous mentonnière;Azithromycine 200mg/5ml, 100ml (Poudre pour sp orale);10ml / jr/6jrs
+19-sept-20;kanyere;petronila;;F;70;Hypoaccousie;Surdité neurosensorielle post traumatique;Surdité neurosensorielle post traumatique;;;Cinnarizine (stugeron) 25mg (Comprimé);2x1co/jr/10jrs
+19-sept-20;kanyere;petronila;;F;70;Hypoaccousie;Surdité neurosensorielle post traumatique;Surdité neurosensorielle post traumatique;;;Vitamine b1 50mg + vitamine b6 50mg + cyanocobalamine 500mcg (tribexfort) (Dragée);3x1co/jr/10jrs
+19-sept-20;murairi;tchoanda;;M;66;Dysphonie;Amygdalite aiguë;Amygdalite aiguë;;;acide bêta-glycyrrhétique 60mg  (chlorure de d'aqualinium, 100mg tyrothricine) (Anginovag spray);3x1bouffée / jr/5jrs
+19-sept-20;murairi;tchoanda;;M;66;Dysphonie;Amygdalite aiguë;Amygdalite aiguë;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3gouttes / jr/14jrs
+19-sept-20;Christine;bikimene;;F;70;Otorrhée/Otorragie;Otite moyenne chronique;Otite moyenne chronique;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/1 mois
+19-sept-20;Christine;bikimene;;F;70;Otorrhée/Otorragie;Otite moyenne chronique;Otite moyenne chronique;Ecouvillon de l'oreille droite;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/1 mois
+19-sept-20;shangwe;mugeyo;golden;M;1;Otorrhée/Otorragie;Traumatisme de l'oreille;Traumatisme de l'oreille;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x1goutte / jr/14jrs
+19-sept-20;shangwe;mugeyo;golden;M;1;Otorrhée/Otorragie;Traumatisme de l'oreille;Traumatisme de l'oreille;;;Amoxicilline 125mg + acide clavulanique 31.25 mg/5ml (Pdre pour sp orale);2x10ml/jr/5jrs
+19-sept-20;musenge;kangeshenge;nicole;F;44;Odynophagie;Amygdalite chronique;Amygdalite chronique;;;Hydroxyde d’aluminium 250mg + tricilicate de magnésie 250mg + siméticone 125mg + oxethazaine 10mg (digest, nocigel, polygel) (Sp. orale);2x10ml / jr/10jr
+19-sept-20;musenge;kangeshenge;nicole;F;44;Odynophagie;Amygdalite chronique;Amygdalite chronique;;;acide bêta-glycyrrhétique 60mg  (chlorure de d'aqualinium, 100mg tyrothricine) (Anginovag spray);3x1bouffée / jr/5jr
+21-sept-20;banyurwa;ndimurwango;;F;12;Déviation de la bouche;Paralysie faciale;Paralysie faciale;;;Vitamine b1 50mg + vitamine b6 50mg + cyanocobalamine 500mcg (tribexfort) (Dragée);3x1c / jr/10jrs
+21-sept-20;banyurwa;ndimurwango;;F;12;Déviation de la bouche;Paralysie faciale;Paralysie faciale;;;Dexaméthazone 0,5mg (Comprimé);3x1co/jr/7jrs
+21-sept-20;banyurwa;ndimurwango;;F;12;Déviation de la bouche;Paralysie faciale;Paralysie faciale;;;Mephénesine (decontractyl) 250mg (Comprimé);2x1co/jr/15jrs
+21-sept-20;Béa;kabongo;;F;52;Hypoacousie;Presbyacousie;Presbyacousie;;;Dexaméthazone 0,5mg (Comprimé);3x2co/jr/7jrs
+21-sept-20;kakule;kihokolo;;M;1;Dyspnée;Hypertrophie des végétations adénoïdes (HVA);Hypertrophie des végétations adénoïdes (HVA);;RX cavum;Citirizine 1mg/ml (cetrimax) (Sp. orale);5ml/jr/10jrs
+21-sept-20;kakule;kihokolo;;M;1;Dyspnée;Hypertrophie des végétations adénoïdes (HVA);Hypertrophie des végétations adénoïdes (HVA);;RX cavum;Azithromycine 200mg/5ml, 100ml (Poudre pour sp orale);5ml/jr/6jr
+21-sept-20;kakule;kihokolo;;M;1;Dyspnée;Hypertrophie des végétations adénoïdes (HVA);Hypertrophie des végétations adénoïdes (HVA);;RX cavum;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x1goutte / jr/1 mois
+21-sept-20;amundala;risasi;thomas;M;32;Otorrhée/Otorragie;Céruminose;Céruminose;;;Xylène (cerulyx) (Sol. gouttes auriculaires);3x2gouttes / jr/jrs
+21-sept-20;amundala;risasi;thomas;M;32;Otorrhée/Otorragie;Céruminose;Céruminose;;;Cinnarizine (stugeron) 25mg (Comprimé);2x1co/jr/10jrs
+21-sept-20;kahambu;tamuhikirye;;F;40;Dysphonie;Laryngite chronique;Laryngite chronique;;;Hydroxyde d’aluminium 250mg + tricilicate de magnésie 250mg + siméticone 125mg + oxethazaine 10mg (digest, nocigel, polygel) (Sp. orale);2x10ml / jr/10jrs
+21-sept-20;kahambu;tamuhikirye;;F;40;Dysphonie;Laryngite chronique;Laryngite chronique;;;Dexaméthazone 0,5mg (Comprimé);3x2c/jr/7jrs
+21-sept-20;kahambu;tamuhikirye;;F;40;Dysphonie;Laryngite chronique;Laryngite chronique;;;cetirizine co 10mg;1co/jr/10jrs
+21-sept-20;kahambu;tamuhikirye;;F;40;Dysphonie;Laryngite chronique;Laryngite chronique;;;Azithromycine comprime de 5oomg;1co/jr/6jrs
+21-sept-20;MASU;KASOLE;;M;47;Otalgie;Otite externe;Otite externe;;;Betahistine (betaserc) 8mg (Comprimé);2x1co/jr/10jrs
+21-sept-20;MASU;KASOLE;;M;47;Otalgie;Otite externe;Otite externe;;;Fluconazole 200mg (Gélule);1co/jr/10jrs
+21-sept-20;MASU;KASOLE;;M;47;Otalgie;Otite externe;Otite externe;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes /jr/14jrs
+21-sept-20;fred;musoni;;F;4;Rhinorrhée;Rhinite chronique;Rhinite chronique;;;Amoxicilline 250mg + acide clavulanique 62,5mg/5ml, 100ml (Pdre pour sp orale);2x10ml/jr/5jr
+21-sept-20;fred;musoni;;F;4;Rhinorrhée;Rhinite chronique;Rhinite chronique;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+22-sept-20;melanie;kobizoba;;F;39;Prurit auriculaire;Otite externe;Otite externe;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes /jr/jrs
+22-sept-20;melanie;kobizoba;;F;39;Prurit auriculaire;Otite externe;Otite externe;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1co/jr/7jrs
+22-sept-20;musole;mulengezi;;M;15;Otalgie;Otite moyenne aiguë;Otite moyenne aiguë;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes /jr/14jrs
+22-sept-20;musole;mulengezi;;M;15;Otalgie;Otite moyenne aiguë;Otite moyenne aiguë;;;Ciprofloxacine 500mg (Comprimé);2x1co/jr/10jrs
+22-sept-20;jedida;nsuli;;F;16;Otalgie;Céruminose;Céruminose;;;Xylène (cerulyx) (Sol. gouttes auriculaires);3x2gouttes / jr/7jrs
+22-sept-20;mugoli;mwamusole;;F;11;Otalgie;Otite externe;Otite externe;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+23-sept-20;cikuru;;Daniel;M;3;Congestion nasale;Corps étranger du nez;Corps étranger du nez;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/10jrs
+23-sept-20;cikuru;;Daniel;M;3;Congestion nasale;Corps étranger du nez;Corps étranger du nez;;;Amoxicilline 250mg + acide clavulanique 62,5mg/5ml, 100ml (Pdre pour sp orale);2x10ml / jr/7jrs
+23-sept-20;francisca;rukara;;F;28;Otalgie;Trauma du CAE gauche;Trauma du CAE gauche;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1co/jr/7jrs
+23-sept-20;francisca;rukara;;F;28;Otalgie;Trauma du CAE gauche;Trauma du CAE gauche;;;Paracétamol 500mg + ibuprofène 400mg (anaflam) (Comprimé);2x1c/jr/7j
+23-sept-20;francisca;rukara;;F;28;Otalgie;Trauma du CAE gauche;Trauma du CAE gauche;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+23-sept-20;nguru;sindani;;M;30;Anosmie;Anosmie d'origine à investiguer;Anosmie d'origine à investiguer;;;Fluticasone (avamys) 27.5 µg  (Sol. pulvérisation nasale);2x1bouffée / jr/30jrs
+23-sept-20;nguru;sindani;;M;30;Anosmie;Anosmie d'origine à investiguer;Anosmie d'origine à investiguer;;;Dexaméthazone 0,5mg (Comprimé);3x2c / jr/7jrs
+23-sept-20;nguru;sindani;;M;30;Anosmie;Anosmie d'origine à investiguer;Anosmie d'origine à investiguer;;;Vitamine b1 50mg + vitamine b6 50mg + cyanocobalamine 500mcg (tribexfort) (Dragée);3x1c/jr/10jrs
+23-sept-20;ethiene;paluku;;M;46;Sensation d'un corps étranger;Reflux gastro-œsophagien;Reflux gastro-œsophagien;Hémogramme complet, CRP Quantitative, Ac H pylori (sang);;Loratadine 10mg (Comprimé);1co/jr/10jrs
+23-sept-20;ethiene;paluku;;M;46;Sensation d'un corps étranger;Reflux gastro-œsophagien;Reflux gastro-œsophagien;Hémogramme complet, CRP Quantitative, Ac H pylori (sang);;Hydroxyde d’aluminium 250mg + tricilicate de magnésie 250mg + siméticone 125mg + oxethazaine 10mg (digest, nocigel, polygel) (Sp. orale);2x10ml / jr/10jrs
+23-sept-20;ethiene;paluku;;M;46;Sensation d'un corps étranger;Reflux gastro-œsophagien;Reflux gastro-œsophagien;Hémogramme complet, CRP Quantitative, Ac H pylori (sang);;Azithromycine co 500mg;1co/jr/6jrs
+23-sept-20;ethiene;paluku;;M;46;Sensation d'un corps étranger;Reflux gastro-œsophagien;Reflux gastro-œsophagien;Hémogramme complet, CRP Quantitative, Ac H pylori (sang);;Bromazepam (lexotan) 3mg (Comprimé);1co/jr/10jrs
+23-sept-20;ethiene;paluku;;M;46;Sensation d'un corps étranger;Reflux gastro-œsophagien;Reflux gastro-œsophagien;Hémogramme complet, CRP Quantitative, Ac H pylori (sang);;Omeprazole 20mg + clarithromycine 250mg + tinidazole 500mg (prazole kit) (Comprimé);1plaquette / jr/7jr
+24-sept-20;kasindi;;flora;F;22;Anosmie;Rhinite chronique;Rhinite chronique;;;Dexaméthazone 0,5mg (Comprimé);3x2co / jr/7jrs
+24-sept-20;kasindi;;flora;F;22;Anosmie;Rhinite chronique;Rhinite chronique;;;Azithromycine comprime de 5oomg;1co/jr/6jrs
+24-sept-20;kasindi;;flora;F;22;Anosmie;Rhinite chronique;Rhinite chronique;;;Fluticasone (avamys) 27.5 µg  (Sol. pulvérisation nasale);2x1bouffée / jr/30jrs
+24-sept-20;fazili;kataka;;F;10;Hypoacousie;Perforation du tympan post traumatique;Perforation du tympan post traumatique;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/1 mois
+24-sept-20;fazili;kataka;;F;10;Hypoacousie;Perforation du tympan post traumatique;Perforation du tympan post traumatique;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1co/jr/5jrs
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX sinus;Acide tranexamique 500mg (exacyl)  (Solution buvable);2x1 amp / jr /  5 lrs
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX sinus;Azithromycine comprimé  de 5oomg;1comprime (500mg) pendant 6jrs.
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX thorax;Prazol  -D;1c0 / jr /10 jrs
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX sinus;Prazol  -D;1c0 / jr /10 jrs
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX thorax;Exacyl ampoule buvable;2x1amp /  jr
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX thorax;Acide tranexamique 500mg (exacyl)  (Solution buvable);2x1 amp / jr /  5 lrs
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX thorax;Azithromycine comprimé  de 5oomg;1comprime (500mg) pendant 6jrs.
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX sinus;Exacyl ampoule buvable;2x1amp /  jr
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX thorax;Fluticasone (avamys) 27.5 µg  (Sol. pulvérisation nasale);2x1 bouffée / jr/30jrs
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX sinus;Fluticasone (avamys) 27.5 µg  (Sol. pulvérisation nasale);2x1 bouffée / jr/30jrs
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX thorax;Levofloxacin 500mg  (Comprimé);1co/jr/10jrs
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX sinus;Levofloxacin 500mg  (Comprimé);1co/jr/10jrs
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX thorax;Loratadine 10mg (Comprimé);1co/jr/10jrs
+24-sept-20;muzalimoya;mugalu;;M;56;Crachat mucosanguinolent;Rhinopharyngite;Rhinopharyngite;Hémogramme complet, Temps de saignement (TS), Temps de coagulation (TC), Vitesse de sédimentation (VS), CRP Quantitative, Glycémie;RX sinus;Loratadine 10mg (Comprimé);1co/jr/10jrs
+25-sept-20;nyatebuka;nashikama;Suzane;F;80;Céphalées;Rhinosinusite aiguë;Rhinosinusite aiguë;;;Paracétamol 500mg + ibuprofène 400mg (anaflam) (Comprimé);2x1c/jr/7jrs
+25-sept-20;nyatebuka;nashikama;Suzane;F;80;Céphalées;Rhinosinusite aiguë;Rhinosinusite aiguë;;;Levofloxacin 500mg  (Comprimé);2x1c/jr?10jrs
+25-sept-20;nyatebuka;nashikama;Suzane;F;80;Céphalées;Rhinosinusite aiguë;Rhinosinusite aiguë;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes/jr/14jrs
+25-sept-20;kasima;kayongo;;F;66;Otalgie;Céruminose;Céruminose;;;Ciprofloxacine 500mg (Comprimé);2x1co/jr/7jrs
+25-sept-20;kasima;kayongo;;F;66;Otalgie;Céruminose;Céruminose;;;Xylène (cerulyx) (Sol. gouttes auriculaires);3x2gouttes / jr/7jrs
+25-sept-20;kasima;kayongo;;F;66;Otalgie;Céruminose;Céruminose;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+25-sept-20;bahati;mwanga;fortinate;F;13;prurit auriculaire;Corps étranger de l'oreille;Corps étranger de l'oreille;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/10jrs
+25-sept-20;neema;zihalirwa;;F;30;Rhinorrhée;Rhinite aiguë;Rhinite aiguë;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1co/jr/7Jrs
+25-sept-20;neema;zihalirwa;;F;30;Rhinorrhée;Rhinite aiguë;Rhinite aiguë;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+25-sept-20;Kabumba;kabudogo;Rachel;F;38;Hypoacousie;Otite externe mycosique;Otite externe mycosique;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+25-sept-20;Kabumba;kabudogo;Rachel;F;38;Hypoacousie;Otite externe mycosique;Otite externe mycosique;;;Xylène (cerulyx) (Sol. gouttes auriculaires);3x2gouttes / jr/7jrs
+25-sept-20;Kabumba;kabudogo;Rachel;F;38;Hypoacousie;Otite externe mycosique;Otite externe mycosique;;;Paracétamol 500mg + ibuprofène 400mg (anaflam) (Comprimé);2x1co/jr/5jrs
+25-sept-20;Kabumba;kabudogo;Rachel;F;38;Hypoacousie;Otite externe mycosique;Otite externe mycosique;;;Fluconazole 200mg (Gélule);1gel/jr/10jrs
+25-sept-20;Kabumba;kabudogo;Rachel;F;38;Hypoacousie;Otite externe mycosique;Otite externe mycosique;;;Dexaméthazone 0,5mg (Comprimé);3x2co / jr/7jrs
+26-sept-20;aganze;chikuru;jean Baptiste;M;28;Céphalées;TRAUMA CRANIOFACIOENCEPHALIQUE avec commotion cérébrale;TRAUMA CRANIOFACIOENCEPHALIQUE  avec commotion cérébrale et;;RX crâne;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+26-sept-20;riziki;minowanda;onorine;F;48;Douleurs de la gorge;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Bromazepam (lexotan) 3mg (Comprimé);1co/jr/10jrs le soir
+26-sept-20;riziki;minowanda;onorine;F;48;Douleurs de la gorge;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Levofloxacin 500mg  (Comprimé);1co/jr/10jrs
+26-sept-20;riziki;minowanda;onorine;F;48;Douleurs de la gorge;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Dexaméthazone 0,5mg (Comprimé);3x2co/jr/7jrs
+26-sept-20;riziki;minowanda;onorine;F;48;Douleurs de la gorge;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Azithromycine comprime de 5oomg;1co/jr/6jrs
+26-sept-20;riziki;minowanda;onorine;F;48;Douleurs de la gorge;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;Hydroxyde d’aluminium 250mg + tricilicate de magnésie 250mg + siméticone 125mg + oxethazaine 10mg (digest, nocigel, polygel) (Sp. orale);2x10ml/jr/10jrs
+26-sept-20;riziki;minowanda;onorine;F;48;Douleurs de la gorge;Reflux gastro-œsophagien;Reflux gastro-œsophagien;;;cetirizine co 10mg;1co/jr/10jrs
+26-sept-20;nganiza;kakozo;;M;72;Hypoacousie;Céruminose;Céruminose;;;Xylène (cerulyx) (Sol. gouttes auriculaires);3x2gouttes / jr/7jrs
+26-sept-20;nganiza;kakozo;;M;72;Hypoacousie;Céruminose;Céruminose;;;Paracétamol 500mg + ibuprofène 400mg (anaflam) (Comprimé);2x1co / jr/5jrs
+26-sept-20;nganiza;kakozo;;M;72;Hypoacousie;Céruminose;Céruminose;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+28-sept-20;Umulisa;Bazigira;Feza;F;41;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Betaméthazone sodium phosphate 0,1% + néomycine sulfate 0,5% (Probeta N) 7,5ml  (Sol. gouttes nasales, ophtalmiques et auriculaires);3x2gouttes / jr/1 mois
+28-sept-20;Umulisa;Bazigira;Feza;F;41;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Loratadine 10mg (Comprimé);1co/jr/10jrs
+28-sept-20;Umulisa;Bazigira;Feza;F;41;Congestion nasale;Rhinite allergique;Rhinite allergique;;;Azithromycine co 500mg;1co/jr/6jrs
+28-sept-20;kasereka;mughunda;;M;42;Dysphonie;Paralysie du nerf vague (nerf laryngé supérieur );Paralysie du nerf vague ( Nerf laryngée supérieur );Hémogramme complet, VDRL/TPHA, Ac HIV 1 & 2, Glycémie;;Méthylcobalamine + ?- acide linoléique + ?-acide linoléique + pyridoxine + acide folique + chrome propionate + zinc (neurocare) (Gélule);3x1co/jr/20jrs
+28-sept-20;kasereka;mughunda;;M;42;Dysphonie;Paralysie du nerf vague (nerf laryngé supérieur );Paralysie du nerf vague ( Nerf laryngée supérieur );Hémogramme complet, VDRL/TPHA, Ac HIV 1 & 2, Glycémie;;Citidine 5’-monophosphate disodique + uridine 5’triphosphate trisodique + uridine 5’diphosphate disodique + uridine 5’monophosphate disodique (nucleo cmp forte) (Gélule);3x1c/jr/20jrs
+28-sept-20;kasereka;mughunda;;M;42;Dysphonie;Paralysie du nerf vague (nerf laryngé supérieur );Paralysie du nerf vague ( Nerf laryngée supérieur );Hémogramme complet, VDRL/TPHA, Ac HIV 1 & 2, Glycémie;;Bétaméthazone 2mg (celestene) (Comprimé);2x1co/jr/10jrs
+28-sept-20;shema;nasoro;Naomie Henriette;F;38;Dyspnée;Amygdalite aiguë;Amygdalite aiguë;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1c /jr/7jrs
+28-sept-20;shema;nasoro;Naomie Henriette;F;38;Dyspnée;Amygdalite aiguë;Amygdalite aiguë;;;acide bêta-glycyrrhétique 60mg  (chlorure de d'aqualinium, 100mg tyrothricine) (Anginovag spray);3x1bouffée / jr/5jrs
+29-sept-20;Bernadette;Bihibinti;;F;0;Plaie de la langue;Plaie de la langue post traumatique;Plaie de la langue post traumatique;;;Paracétamol + ibuprofène (anaflam, brufen), 100ml  (Sp. orale);2x5ml / jr/7jrs
+29-sept-20;Bernadette;Bihibinti;;F;0;Plaie de la langue;Plaie de la langue post traumatique;Plaie de la langue post traumatique;;;Amoxicilline 125mg + acide clavulanique 31.25 mg/5ml (Pdre pour sp orale);2x10ml/jr/7jrs
+29-sept-20;Beatrice;Chiza;;F;58;Odynophagie;Reflux gastro-œsophagien;Reflux gastro-œsophagien;Hémogramme complet, CRP Quantitative, Ac H pylori (sang), Glycémie;;Hydroxyde d’aluminium 250mg + tricilicate de magnésie 250mg + siméticone 125mg + oxethazaine 10mg (digest, nocigel, polygel) (Sp. orale);2x10ml/jr/10jrs
+29-sept-20;Beatrice;Chiza;;F;58;Odynophagie;Reflux gastro-œsophagien;Reflux gastro-œsophagien;Hémogramme complet, CRP Quantitative, Ac H pylori (sang), Glycémie;;Omeprazole 20mg + clarithromycine 250mg + tinidazole 500mg (prazole kit) (Comprimé);1 plaquette / jr/7jrs
+29-sept-20;Beatrice;Chiza;;F;58;Odynophagie;Reflux gastro-œsophagien;Reflux gastro-œsophagien;Hémogramme complet, CRP Quantitative, Ac H pylori (sang), Glycémie;;Bromazepam (lexotan) 3mg (Comprimé);1co/jr/10jrs le soir
+29-sept-20;Beatrice;Chiza;;F;58;Odynophagie;Reflux gastro-œsophagien;Reflux gastro-œsophagien;Hémogramme complet, CRP Quantitative, Ac H pylori (sang), Glycémie;;Loratadine 10mg (Comprimé);1co/jr/10jr
+29-sept-20;Beatrice;Chiza;;F;58;Odynophagie;Reflux gastro-œsophagien;Reflux gastro-œsophagien;Hémogramme complet, CRP Quantitative, Ac H pylori (sang), Glycémie;;azithromycine co 500mg;1co/jr/3jrs
+29-sept-20;masu;gahana;;M;8;Otalgie;Otite externe;Otite externe;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+29-sept-20;Mombembe;;Christy;M;22;Craquement mandibulaire;Syndrome algodysfonctionnnel de l'ATM (SADAM);Syndrome algodysfonctionnnel de l'ATM (SADAM);;;Vitamine b1 50mg + vitamine b6 50mg + cyanocobalamine 500mcg (tribexfort) (Dragée);3x1co/jr/10jrs
+29-sept-20;Mombembe;;Christy;M;22;Craquement mandibulaire;Syndrome algodysfonctionnnel de l'ATM (SADAM);Syndrome algodysfonctionnnel de l'ATM (SADAM);;;Dexaméthazone 0,5mg (Comprimé);3x2co/jr/7jrs
+29-sept-20;Mombembe;;Christy;M;22;Craquement mandibulaire;Syndrome algodysfonctionnnel de l'ATM (SADAM);Syndrome algodysfonctionnnel de l'ATM (SADAM);;;Mephénesine (decontractyl) 250mg (Comprimé);3x1co/jr/10jrs
+30-sept-20;Kahindo;;La vie;F;32;Masse cervicale;Goitre;Goitre;;Échographie thyroïdienne;;
+30-sept-20;Bahati;Bashanga;Alexe;M;28;Congestion nasale;Rhinite chronique;Rhinite chronique;;;Azithromycine co 500mg;1co/jr/6jrs
+30-sept-20;Bahati;Bashanga;Alexe;M;28;Congestion nasale;Rhinite chronique;Rhinite chronique;;;Dexaméthazone 0,5mg (Comprimé);3x2c/jr/7jrs
+30-sept-20;Bahati;Bashanga;Alexe;M;28;Congestion nasale;Rhinite chronique;Rhinite chronique;;;Fluticasone (avamys) 27.5 µg  (Sol. pulvérisation nasale);2x1bouffée / jr/30jrs
+30-sept-20;bisimwa;balume;jean lucien;M;12;Otalgie;Otite moyenne aiguë;Otite moyenne aiguë;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+30-sept-20;bisimwa;balume;jean lucien;M;12;Otalgie;Otite moyenne aiguë;Otite moyenne aiguë;;;Amoxicilline 500mg + acide clavulanique 62,2 mg (Comprimé);2x1co/jr/7jrs
+30-sept-20;ndirira;tshobohwa;Sarah;F;25;Vertige;Céphalées psychogènes;Céphalées psychogènes;Hémogramme complet, TDR Paludisme, Widal TO, Glycémie, Test de grossesse;;;
+30-sept-20;kasimu;esther;bibi;F;32;Otalgie;Amygdalite aiguë;Amygdalite chronique;;;acide bêta-glycyrrhétique 60mg  (chlorure de d'aqualinium, 100mg tyrothricine) (Anginovag spray);3x1 bouffée / jr/5jrs
+30-sept-20;kasimu;esther;bibi;F;32;Otalgie;Amygdalite aiguë;Amygdalite chronique;;;Dexaméthazone 0,5mg (Comprimé);3x2co / jr/7jrs
+30-sept-20;kasimu;esther;bibi;F;32;Otalgie;Amygdalite aiguë;Amygdalite chronique;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x2gouttes / jr/14jrs
+30-sept-20;Irangaba;;Justin;M;21;Otalgie;Otite moyenne aiguë;Otite moyenne aiguë;;;Ciprofloxacine 500mg (Comprimé);2x1co/jr/10jrs
+30-sept-20;Irangaba;;Justin;M;21;Otalgie;Otite moyenne aiguë;Otite moyenne aiguë;;;Ciprofloxacin 0.3% + dexaméthazone 0.1%, 5ml (Sol. gouttes ophtalmiques et auriculaires);3x1c/jr/1 mois
