@@ -1,0 +1,83 @@
+EVT_TYPE_EXAMEN_VALUE;TYPE
+ECBU / Uroculture;BACTERIOLOGIE
+Ecouvillon de gorge;BACTERIOLOGIE
+Ecouvillon de l'oreille droite;BACTERIOLOGIE
+Ecouvillon de l'oreille gauche;BACTERIOLOGIE
+Frottis ur�tral gram;BACTERIOLOGIE
+Frottis vaginal culture;BACTERIOLOGIE
+Frottis vaginal gram;BACTERIOLOGIE
+Spermogramme;BACTERIOLOGIE
+Acide urique;BIOCHIMIE
+ALAT (GPT);BIOCHIMIE
+Albumine;BIOCHIMIE
+Amylase;BIOCHIMIE
+ASAT (GOT);BIOCHIMIE
+Bandelette urinaire (BU);BIOCHIMIE
+Bilirubine directe;BIOCHIMIE
+Bilirubine indirecte;BIOCHIMIE
+Bilirubine totale;BIOCHIMIE
+C�tonurie;BIOCHIMIE
+Cholest�rol total;BIOCHIMIE
+Cr�atinine;BIOCHIMIE
+G-GT;BIOCHIMIE
+Glyc�mie;BIOCHIMIE
+Glycosurie;BIOCHIMIE
+HbA1c;BIOCHIMIE
+HDL-Cholest�rol;BIOCHIMIE
+Ionogramme de routine;BIOCHIMIE
+LDL Cholest�rol;BIOCHIMIE
+Lipase;BIOCHIMIE
+Magn�sium;BIOCHIMIE
+Phosphore;BIOCHIMIE
+Prot�ines total;BIOCHIMIE
+Prot�inurie;BIOCHIMIE
+Triglyc�ride;BIOCHIMIE
+Ur�e;BIOCHIMIE
+ABO & RH (D);HEMATOLOGIE
+Formule leucocytaire;HEMATOLOGIE
+Globules blancs;HEMATOLOGIE
+H�matocrite;HEMATOLOGIE
+H�moglobine;HEMATOLOGIE
+H�mogramme complet;HEMATOLOGIE
+R�ticulocytes;HEMATOLOGIE
+Temps de coagulation (TC);HEMATOLOGIE
+Temps de saignement (TS);HEMATOLOGIE
+Test d'Emmel;HEMATOLOGIE
+Vitesse de s�dimentation (VS);HEMATOLOGIE
+AFP;HORMONOLOGIE
+beta-HCG;HORMONOLOGIE
+FSH;HORMONOLOGIE
+LH;HORMONOLOGIE
+Progest�rone;HORMONOLOGIE
+Prolactine;HORMONOLOGIE
+PSA;HORMONOLOGIE
+T3;HORMONOLOGIE
+T4;HORMONOLOGIE
+Test de grossesse;HORMONOLOGIE
+Testost�rone;HORMONOLOGIE
+Troponine;HORMONOLOGIE
+TSH;HORMONOLOGIE
+Frottis sanguin;PARASITOLOGIE
+Frottis ur�tral � frais;PARASITOLOGIE
+Frottis vaginal � frais;PARASITOLOGIE
+Goutte �paisse;PARASITOLOGIE
+Goutte fra�che;PARASITOLOGIE
+S�diment urinaire;PARASITOLOGIE
+Selles concentr�es;PARASITOLOGIE
+Selles directes;PARASITOLOGIE
+TDR Paludisme;PARASITOLOGIE
+Ac H pylori (sang);SEROLOGIE
+Ac HIV 1 & 2;SEROLOGIE
+Ag Chlamydia trachomatis;SEROLOGIE
+Ag Gonorrhea;SEROLOGIE
+ASLO quantitatif;SEROLOGIE
+CRP Quantitative;SEROLOGIE
+D-DIMER;SEROLOGIE
+Fact. Rhumat. Quantitatif;SEROLOGIE
+HbSAg;SEROLOGIE
+HCV;SEROLOGIE
+Rubeole;SEROLOGIE
+Toxo;SEROLOGIE
+VDRL/TPHA;SEROLOGIE
+Widal TH;SEROLOGIE
+Widal TO;SEROLOGIE
