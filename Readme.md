@@ -26,4 +26,4 @@ You should see the notebook open in your browser. By default at `http://localhos
 Here you need to upload a csv from ORL departement.
 This is the header format: 
 
-***Date;Nom;Postnom;Prénom;Sexe;Age;Plaintes;Diagnostic final;Diagnostic de présemption;Examens labo;Examens imagerie;Prescriptions;EVT_POSOLOGIE*** 
+```Date;Nom;Postnom;Prénom;Sexe;Age;Plaintes;Diagnostic final;Diagnostic de présemption;Examens labo;Examens imagerie;Prescriptions;EVT_POSOLOGIE```
