@@ -1,8 +1,9 @@
+EVT_TYPE_EXAMEN_VALUE;TYPE
 ECBU / Uroculture;BACTERIOLOGIE
 Ecouvillon de gorge;BACTERIOLOGIE
 Ecouvillon de l'oreille droite;BACTERIOLOGIE
 Ecouvillon de l'oreille gauche;BACTERIOLOGIE
-Frottis urétral gram;BACTERIOLOGIE
+Frottis urï¿½tral gram;BACTERIOLOGIE
 Frottis vaginal culture;BACTERIOLOGIE
 Frottis vaginal gram;BACTERIOLOGIE
 Spermogramme;BACTERIOLOGIE
@@ -15,54 +16,54 @@ Bandelette urinaire (BU);BIOCHIMIE
 Bilirubine directe;BIOCHIMIE
 Bilirubine indirecte;BIOCHIMIE
 Bilirubine totale;BIOCHIMIE
-Cétonurie;BIOCHIMIE
-Cholestérol total;BIOCHIMIE
-Créatinine;BIOCHIMIE
+Cï¿½tonurie;BIOCHIMIE
+Cholestï¿½rol total;BIOCHIMIE
+Crï¿½atinine;BIOCHIMIE
 G-GT;BIOCHIMIE
-Glycémie;BIOCHIMIE
+Glycï¿½mie;BIOCHIMIE
 Glycosurie;BIOCHIMIE
 HbA1c;BIOCHIMIE
-HDL-Cholestérol;BIOCHIMIE
+HDL-Cholestï¿½rol;BIOCHIMIE
 Ionogramme de routine;BIOCHIMIE
-LDL Cholestérol;BIOCHIMIE
+LDL Cholestï¿½rol;BIOCHIMIE
 Lipase;BIOCHIMIE
-Magnésium;BIOCHIMIE
+Magnï¿½sium;BIOCHIMIE
 Phosphore;BIOCHIMIE
-Protéines total;BIOCHIMIE
-Protéinurie;BIOCHIMIE
-Triglycéride;BIOCHIMIE
-Urée;BIOCHIMIE
+Protï¿½ines total;BIOCHIMIE
+Protï¿½inurie;BIOCHIMIE
+Triglycï¿½ride;BIOCHIMIE
+Urï¿½e;BIOCHIMIE
 ABO & RH (D);HEMATOLOGIE
 Formule leucocytaire;HEMATOLOGIE
 Globules blancs;HEMATOLOGIE
-Hématocrite;HEMATOLOGIE
-Hémoglobine;HEMATOLOGIE
-Hémogramme complet;HEMATOLOGIE
-Réticulocytes;HEMATOLOGIE
+Hï¿½matocrite;HEMATOLOGIE
+Hï¿½moglobine;HEMATOLOGIE
+Hï¿½mogramme complet;HEMATOLOGIE
+Rï¿½ticulocytes;HEMATOLOGIE
 Temps de coagulation (TC);HEMATOLOGIE
 Temps de saignement (TS);HEMATOLOGIE
 Test d'Emmel;HEMATOLOGIE
-Vitesse de sédimentation (VS);HEMATOLOGIE
+Vitesse de sï¿½dimentation (VS);HEMATOLOGIE
 AFP;HORMONOLOGIE
 beta-HCG;HORMONOLOGIE
 FSH;HORMONOLOGIE
 LH;HORMONOLOGIE
-Progestérone;HORMONOLOGIE
+Progestï¿½rone;HORMONOLOGIE
 Prolactine;HORMONOLOGIE
 PSA;HORMONOLOGIE
 T3;HORMONOLOGIE
 T4;HORMONOLOGIE
 Test de grossesse;HORMONOLOGIE
-Testostérone;HORMONOLOGIE
+Testostï¿½rone;HORMONOLOGIE
 Troponine;HORMONOLOGIE
 TSH;HORMONOLOGIE
 Frottis sanguin;PARASITOLOGIE
-Frottis urétral à frais;PARASITOLOGIE
-Frottis vaginal à frais;PARASITOLOGIE
-Goutte épaisse;PARASITOLOGIE
-Goutte fraîche;PARASITOLOGIE
-Sédiment urinaire;PARASITOLOGIE
-Selles concentrées;PARASITOLOGIE
+Frottis urï¿½tral ï¿½ frais;PARASITOLOGIE
+Frottis vaginal ï¿½ frais;PARASITOLOGIE
+Goutte ï¿½paisse;PARASITOLOGIE
+Goutte fraï¿½che;PARASITOLOGIE
+Sï¿½diment urinaire;PARASITOLOGIE
+Selles concentrï¿½es;PARASITOLOGIE
 Selles directes;PARASITOLOGIE
 TDR Paludisme;PARASITOLOGIE
 Ac H pylori (sang);SEROLOGIE
