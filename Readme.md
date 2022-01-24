@@ -2,7 +2,7 @@
 
 > This project help me to compile daily, weekly and monthly reports, for different departments.
 
-I created this project to automate data analysis really helped me cut down on times around 10 times faster than before.
+I have created this project to automate data analysis to really help me cut down on times around 10 times faster than before.
 
 ## Built With
 
