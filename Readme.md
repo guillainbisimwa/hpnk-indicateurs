@@ -1,3 +1,9 @@
+---
+noteId: "65b0dd607dc211ecae4ca19163cf7daa"
+tags: []
+
+---
+
 # Hpnk-indicator
 
 > This project help me to compile daily, weekly and monthly reports, for different departments.
